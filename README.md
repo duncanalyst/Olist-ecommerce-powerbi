@@ -218,6 +218,7 @@ this relationship.
 - 🔗 [Credit Card Fraud Detection — SQL](https://github.com/NC-Dan/credit-card-fraud-detection-sql)
 - 🔗 [Global Superstore Sales Dashboard — Excel](https://github.com/NC-Dan/global-superstore-sales-dashboard)
 - 🔗 [Healthcare Analytics Dashboard — Excel](https://github.com/NC-Dan/healthcare-analytics-dashboard)
+- 🔗[kenya-banking-risk-Dashboard- Excel](https://github.com/duncanalyst/kenya-banking-risk-dashboard)
 
 ---
 
