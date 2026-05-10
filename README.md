@@ -54,18 +54,24 @@ three core business questions:
 - Order Volume Growth line chart (2016—2018)
 - Year slicer — filter all visuals by year
 - Reset bookmark button
+- screenshot
+- ![olist_Dash1](olist_Dash1.png)
 
 **Page 2 — Delivery Performance** *(Hidden — accessible via drill through only)*
 - Avg Delivery Days KPI
 - Delivery Performance by State bar chart
 - Order Status Breakdown donut
 - Right-click any state on Page 1 Revenue by State chart → Drill through → Delivery Performance
+- screenshot
+- ![olist_Dash2](olist_Dash2.png)
 
 **Page 3 — Customer & Payment Analysis**
 - Revenue by Payment Type donut
 - Avg Order Value by Payment Method bar chart
 - Customer Purchase Frequency table
 - Repeat Customer Rate KPI — 0.00%
+- screenshot
+- ![olist_Dash3](olist_Dash3.png)
 
 ---
 
